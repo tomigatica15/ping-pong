@@ -1,3 +1,5 @@
+// PingPong Arduino
+
 #define rojo1 A3
 #define amarillo2 A2
 #define verde3 A1
